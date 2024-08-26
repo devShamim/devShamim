@@ -28,7 +28,7 @@ I enjoy creating dynamic and efficient web applications with a focus on performa
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [[Shamim Ahmed](https://linkedin.com/in/shamimahmedx)]
+- **LinkedIn:** [Shamim Ahmed](https://linkedin.com/in/shamimahmedx)
 - **Email:** shamimeforb@gmail.com
 
 ---
