@@ -2,11 +2,7 @@
 <h3 align="center">A passionate frontend developer from Dhaka</h3>
 
 
-- 🔭 I’m currently working on [HexaDash](https://themeforest.net/item/hexadash-svelte-multipurpose-admin-dashboard-template/42355059?s_rank=1)
-
-- 🌱 I’m currently learning **Angular, TypeScript, React, Python**
-
-- 💬 Ask me about **JavaScript, Vue, Svelte**
+- 💬 Ask me about **JavaScript, React, Vue, Svelte**
 
 - 📫 How to reach me **shamimeforb@gmail.com**
 
