@@ -30,7 +30,3 @@ I enjoy creating dynamic and efficient web applications with a focus on performa
 ### 📫 Let's Connect
 - **LinkedIn:** [Shamim Ahmed](https://linkedin.com/in/shamimahmedx)
 - **Email:** shamimeforb@gmail.com
-
----
-
-![Shamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devshamim&show_icons=true&theme=dracula)
