@@ -16,7 +16,7 @@ I enjoy creating dynamic and efficient web applications with a focus on performa
 ### 🚀 Current Projects
 - **Formgent:** A revolutionized form builder WordPress plugin.
 - **Helpgent:** The ultimate form builder and Typeform alternative on WordPress.
-- **SovWare Web App:** A complete solution for project management, time tracking, leave management, and more.
+- **Web App:** A complete solution for project management, time tracking, leave management, and more.
 - **Shopify Development:** Crafting customized, high-performance Shopify themes and app.
 ---
 
